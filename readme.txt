@@ -1,3 +1,16 @@
+=== Voiceflow ===
+Contributors: domartisan
+Donate link: https://umbral.ai
+Tags: Chatbot, Voiceflow, AI
+Requires at least: 4.7
+Tested up to: 5.4
+Stable tag: 4.3
+Requires PHP: 7.0
+License: MIT
+License URI: https://opensource.org/licenses/MIT
+Here is a short description of the plugin. This should be no more than 150 characters. No markup here.
+
+
 === Voiceflow Integration for WordPress ===
 
 This plugin integrates the Voiceflow chat widget into your WordPress site, enabling an interactive conversational interface on your web pages. The current version of the plugin supports the configuration of the Voiceflow project ID associated with your account.
