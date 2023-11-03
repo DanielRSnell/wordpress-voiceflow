@@ -29,3 +29,8 @@ function voiceflow_register_setting() {
 }
 
 add_action( 'admin_init', 'voiceflow_register_setting' );
+
+function voiceflow_render_project_id_field() {
+    $value = get_option('voiceflow_project_id', '');
+    echo '<input type="text" id="voiceflow_project_id" name="voiceflow_project_id" value="' . esc_attr($value) . '" />';
+}
