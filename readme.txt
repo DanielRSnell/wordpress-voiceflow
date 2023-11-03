@@ -38,4 +38,4 @@ If you encounter any issues or have feature requests, please file an issue on th
 
 == License ==
 
-This project is licensed under the GPLv2 or later. (https://www.gnu.org/licenses/gpl-2.0.html)
+This project is licensed under the MIT License Agreement.
