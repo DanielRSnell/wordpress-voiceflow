@@ -14,14 +14,16 @@ This plugin integrates the Voiceflow chat widget into your WordPress site, enabl
 
 Once activated, navigate to `Settings` -> `Voiceflow` in the WordPress admin dashboard. Here, you can enter your Voiceflow project ID, which is necessary for the chat widget to function properly.
 
-```plaintext
-Voiceflow Settings:
+## \*\*Voiceflow Settings:
+
 - Project ID: [Enter your Voiceflow project ID here]
 
 ## Usage
+
 With the correct Project ID configured, the Voiceflow chat widget will now appear on your site, ready to interact with your visitors.
 
 ## To-Do List
+
 - Customize the styling of the Voiceflow widget to better match the website's theme.
 - Sync the plugin with a knowledge base to provide more informative and helpful responses.
 - Add more advanced configuration options for the Voiceflow widget.
@@ -29,12 +31,15 @@ With the correct Project ID configured, the Voiceflow chat widget will now appea
 - Explore additional Voiceflow features and integrate them into the plugin.
 
 ## Support
+
 If you encounter any issues or have feature requests, please file an issue on the GitHub project page or contact the plugin author at [author@example.com](mailto:author@example.com).
 
 ## Changelog
+
 ### 1.0.0
+
 - Initial release with Voiceflow project ID integration.
 
 ## License
+
 This project is licensed under the [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
-```
