@@ -4,6 +4,8 @@ This plugin integrates the Voiceflow chat widget into your WordPress site, enabl
 
 ## **Installation**
 
+**if downloading from Github, select code, download zip instead of step 1**
+
 1. Download the plugin zip file.
 2. Navigate to the WordPress admin dashboard.
 3. Go to `Plugins` -> `Add New`.
