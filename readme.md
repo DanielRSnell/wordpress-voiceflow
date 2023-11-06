@@ -4,6 +4,12 @@ This plugin integrates the Voiceflow chat widget into your WordPress site, enabl
 
 ## **Installation**
 
+**Click 👇 For Installation Video**
+
+<a href="https://www.youtube.com/watch?v=jx0Qy4-GsEo" target="_blank">
+ <img src="https://i9.ytimg.com/vi_webp/jx0Qy4-GsEo/mqdefault.webp?v=65452e2e&sqp=CJjclKoG&rs=AOn4CLD4yyWvOy2NVx-nORmZXPNB1j6STQ" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 **if downloading from Github, select code, download zip instead of step 1**
 
 1. Download the plugin zip file.
